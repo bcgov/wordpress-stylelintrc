@@ -1,0 +1,15 @@
+{
+  "name": "@bcgov/wordpress-eslint",
+  "version": "1.0.0",
+  "description": "ESLint rules for BC government WordPress development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Haswell",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-jsdoc": "^46.8.2",
+    "eslint-plugin-prefer-arrow": "^1.2.3"
+  }
+}
