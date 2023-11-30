@@ -1,7 +1,7 @@
 {
-  "name": "@bcgov/wordpress-eslint",
+  "name": "@bcgov/wordpress-stylelintrc",
   "version": "1.0.0",
-  "description": "ESLint rules for BC government WordPress development",
+  "description": "Style lint rules for BC government WordPress development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
